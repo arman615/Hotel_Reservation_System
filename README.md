@@ -1,4 +1,4 @@
-# Hotel_Reservation_System
+# Hotel Reservation System
 This is a simple hotel reservation system implemented in C++. It allows users to register rooms, customers, book rooms, generate bills, and save bills to a file.
 
 # Features
